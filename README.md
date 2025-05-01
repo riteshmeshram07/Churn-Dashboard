@@ -98,11 +98,4 @@ The dataset used for this project is based on the publicly available **Telco Cus
 
 ---
 
-## 🚀 How to Use
-
-To view and interact with the dashboard locally:
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/churn-analysis-dashboard.git
 
